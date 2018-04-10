@@ -1,2 +1,3 @@
 # matman-mocker-demo-user-info
-Demo CGI for matman mocker
+
+本项目需要配合 [matman](https://github.com/helinjiang/matman) 使用。
