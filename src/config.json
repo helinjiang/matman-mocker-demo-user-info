@@ -2,5 +2,5 @@
   "name": "demo_user_info",
   "description": "查询用户信息",
   "route": "/cgi-bin/a/b/demo_user_info",
-  "defaultModule": "success_1"
+  "defaultModule": "success_type_0"
 }
