@@ -1,6 +1,6 @@
 {
     "name": "matman-mocker-demo-user-info",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Demo CGI for matman mocker",
     "main": "lib/index.js",
     "scripts": {
