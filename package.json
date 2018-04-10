@@ -22,6 +22,6 @@
     },
     "homepage": "https://github.com/helinjiang/matman-mocker-demo-user-info#readme",
     "devDependencies": {
-        "matman-core": "^0.1.3"
+        "matman-core": "^0.1.4"
     }
 }
