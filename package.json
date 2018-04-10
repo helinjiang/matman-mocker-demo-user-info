@@ -1,0 +1,27 @@
+{
+    "name": "matman-mocker-demo-user-info",
+    "version": "1.0.0",
+    "description": "Demo CGI for matman mocker",
+    "main": "lib/index.js",
+    "scripts": {
+        "prepublish": "node ./build.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/helinjiang/matman-mocker-demo-user-info.git"
+    },
+    "keywords": [
+        "matman",
+        "demo"
+    ],
+    "author": "helinjiang",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/helinjiang/matman-mocker-demo-user-info/issues"
+    },
+    "homepage": "https://github.com/helinjiang/matman-mocker-demo-user-info#readme",
+    "devDependencies": {
+        "matman-core": "^0.1.3"
+    }
+}
