@@ -1,10 +1,10 @@
 {
     "name": "matman-mocker-demo-user-info",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Demo CGI for matman mocker",
     "main": "lib/index.js",
     "scripts": {
-        "prepublish": "node ./node_modules/matman-cli/bin/matman build-module ./src ./lib -a",
+        "prepublish": "node ./node_modules/matman-cli/bin/matman build-handler ./src ./lib -a",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
@@ -22,6 +22,6 @@
     },
     "homepage": "https://github.com/helinjiang/matman-mocker-demo-user-info#readme",
     "devDependencies": {
-        "matman-cli": "^0.3.1"
+        "matman-cli": "^0.3.3"
     }
 }
